@@ -3,15 +3,22 @@ Le texte de cette présentation est disponible en ligne : https://github.com/Lib
 
 ---
 ## LibreHealthCare
+![logo](images/logo.png)
 
-* Collectif de professionnels de santé
-* Promouvoir les logiciels libres dans le domaine de la santé
+* Collectif regroupant
+    * professionnels de santé
+    * développeurs
+    * créateurs
+    * libristes
+* Promouvoir logiciels, matériel et standards libres dans le domaine de la santé
 * Mettre en commun les initiatives
+
+Mailing list, wiki, Mastodon, Twitter: https://librehealthcare.org
 
 ---
 ## Qu'est-ce qu'un logiciel libre ?
 
-4 libertés fondamentales définies par la FSF :
+4 libertés fondamentales définies par la Free Software Fundation:
 * exécuter le programme
 * étudier le fonctionnement
 * redistribuer des copies
