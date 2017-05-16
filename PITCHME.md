@@ -242,13 +242,15 @@ Batir 1 "communauté d'utilisateurs" sur 1 logiciel non libre est 1 stratégie r
 ### Dérives: publicité
 #### Dr Gates
 
-Dr Gates misait tout sur les éditions ImageAllThePeople. Avec un nom pareil, ce sont sûrement des gens chouettes, ils ont dû faire mai 68.
+Dr Gates misait tout sur les éditions ImageAllThePeople. Avec 1 nom pareil, ce sont sûrement des gens chouettes, ils ont dû faire mai 68.
 
 * Mise à jour: 1 écran publicitaire s'affiche juste avant la prescription...
 * Forum utilisateurs: 100 utilisateurs s'insurgent
-* Ils créent 1 pétition en ligne sur Avaaz
-  * [Madame Marisol Touraine, Ministre de la Santé: interdisez la publicité pour médicaments dans les logiciels médicaux](https://secure.avaaz.org/fr/petition/Madame_Marisol_Touraine_Ministre_de_la_Sante_interdire_la_publicite_pour_medicaments_dans_les_logiciels_medicaux/?pv=9)
-  * 1 061 signatures!!! C'est l'insurrection qui vient...
+* Ils créent 1 pétition en ligne sur Avaaz: [Madame Marisol Touraine, Ministre de la Santé: interdisez la publicité pour médicaments dans les logiciels médicaux](https://secure.avaaz.org/fr/petition/Madame_Marisol_Touraine_Ministre_de_la_Sante_interdire_la_publicite_pour_medicaments_dans_les_logiciels_medicaux/?pv=9)
+
++++
+
+* 1 061 signatures!!! C'est l'insurrection qui vient...
   
 +++
 
@@ -256,7 +258,6 @@ Dr Gates misait tout sur les éditions ImageAllThePeople. Avec un nom pareil, ce
 * Les utilisateurs continuent à payer
 * ImagineAllThePeople l'éditeur "indépendant" number 1 cool soixante-huitard a été racheté par WorldCompany... (cf "Retour sur investissement")
 * Les utilisateurs ne peuvent plus se plaindre sur le forum car il a été fermé
-
   
 ---
 
