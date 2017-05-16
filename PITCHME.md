@@ -26,10 +26,10 @@ Mailing list, wiki, Mastodon, Twitter: https://librehealthcare.org
 
 4 libertés fondamentales de l'utilisateur de logiciel définies par la Free Software Fundation
 
-    0 la liberté d'exécuter le programme, pour tous les usages
-    1 la liberté d'étudier le fonctionnement du programme et de l'adapter à ses besoins
-    2 la liberté de redistribuer des copies du programme (ce qui implique la possibilité aussi bien de donner que de vendre des copies)
-    3 la liberté d'améliorer le programme et de distribuer ces améliorations au public, pour en faire profiter toute la communauté  
+* 0 la liberté d'exécuter le programme, pour tous les usages
+* 1 la liberté d'étudier le fonctionnement du programme et de l'adapter à ses besoins
+* 2 la liberté de redistribuer des copies du programme (ce qui implique la possibilité aussi bien de donner que de vendre des copies)
+* 3 la liberté d'améliorer le programme et de distribuer ces améliorations au public, pour en faire profiter toute la communauté  
 
 L'accès au code source est une condition d'exercice des libertés 1 et 3.
 
