@@ -337,12 +337,14 @@ Dr Gates sait que derrière l'excuse "épidémiologique", il s'agit de:
 
 ### Wikipedia
 ![logo](images/wikipedia.png)
+
 Logiciel libre Mediawiki
 
 ---
 
 ### GIMP
 ![logo](images/gimp.png)
+
 Gnu Image Manipulation Program
 
 ---
@@ -352,19 +354,26 @@ Gnu Image Manipulation Program
 
 ---
 
-###
-![logo](images/.png)
+### Apache
+![logo](images/apache.png)
+
+Logiciel qui vous envoie les fichiers qui permettent à Firefox d'afficher 1 page web.
+
++++
+
+![logo](images/web.png)
 
 ---
 
-###
-![logo](images/.png)
+### Wordpress
+![logo](images/wordpress.png)
 
 ---
 
-###
-![logo](images/.png)
+### Internet
+![logo](images/internet.png)
 
+Internet est-il 1 logiciel libre? En tout cas, c'est 1 ensemble de standards libres et ouverts élaborés par l'IETF (les RFC).
 
 
 
