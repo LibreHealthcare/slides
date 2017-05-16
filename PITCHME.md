@@ -78,7 +78,10 @@ Richard Stallman
 ---
 
 # Intérêt pour les patients
-
+ * secret médical & protection des données personnelles
+ * transparence des algorithmes
+ * réduction des conflits d'intérêts donc meilleurs soins
+ * exportation des données
 ---
 ## Intérêt pour les soignants
 ### Logiciel orphelin
