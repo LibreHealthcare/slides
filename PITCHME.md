@@ -300,4 +300,71 @@ Dr Gates sait que derrière l'excuse "épidémiologique", il s'agit de:
 
 ---
 
-## Projets libres
+## Logiciels libres
+
+---
+### Firefox
+![logo](images/firefox.png)
+
+---
+
+### GNU / Linux
+![logo](images/gnulinux.png)
+
+---
+
+### GNU / Linux
+#### Debian
+![logo](images/debian.png)
+
+
+---
+### GNU / Linux
+#### Ubuntu
+![logo](images/ubuntu.png)
+
+---
+
+### LibreOffice
+![logo](images/libreoffice.png)
+
+---
+
+### Scribus
+![logo](images/scribus.png)
+
+---
+
+### Wikipedia
+![logo](images/wikipedia.png)
+Logiciel libre Mediawiki
+
+---
+
+### GIMP
+![logo](images/gimp.png)
+Gnu Image Manipulation Program
+
+---
+
+### OSM Open Street Map
+![logo](images/osm.png)
+
+---
+
+###
+![logo](images/.png)
+
+---
+
+###
+![logo](images/.png)
+
+---
+
+###
+![logo](images/.png)
+
+
+
+
