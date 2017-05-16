@@ -277,7 +277,11 @@ Dr Gates sait que derrière l'excuse "épidémiologique", il s'agit de:
 
 +++
 
-![ims](images/ims.png)
+![ims](images/ims1.png)
+
++++
+
+![ims](images/ims2.png)
 
 ---
 
