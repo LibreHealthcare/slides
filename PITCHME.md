@@ -377,5 +377,47 @@ Logiciel qui vous envoie les fichiers qui permettent à Firefox d'afficher 1 pag
 
 Internet est-il 1 logiciel libre? En tout cas, c'est 1 ensemble de standards libres et ouverts élaborés par l'IETF (les RFC).
 
+---
+
+### Zotero
+![logo](images/zotero.png)
+
+---
+
+### DebianMed
+![logo](images/debianmed.png)
+
+---
+
+### Orthanc
+![logo](images/orthanc.png)
+
+DICOM Server & viewer https://www.orthanc-server.com
+
+---
+
+### Gnu Health
+![logo](images/gnuhealth.png)
+
+Gestion des dossiers médicaux
+
+
+---
+
+### FreeHealth (fork de FreeMedForms)
+![logo](images/freehealth.png)
+
+Gestion des dossiers médicaux, prescription avec calcul des interactions médicamenteuses
+
+**Déclaration d'intérêts: Jérôme Pinguet est développeur de FreeHealth.**
+
+---
+
+### 
+![logo](images/.png)
+
+
+
++++
 
 
