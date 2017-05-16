@@ -40,18 +40,19 @@ L'accès au code source est une condition d'exercice des libertés 1 et 3.
  * Un logiciel libre est un logiciel qui respecte ces 4 libertés.
  * Tout logiciel qui ne respecte pas l'ensemble de ces 4 libertés est 1 logiciel non libre, encore appelé logiciel privateur (de libertés).
  
- +++
++++
  
  ### Code source
  
- ![image code source](images/source.jpg)
+ ![source](images/source.jpg)
 
 ---
 
 ### Qui controle qui?
 
-    "Si l'utilisateur ne contrôle pas le logiciel, c'est le logiciel qui contrôle l'utilisateur."
-    Richard Stallman
+"Si l'utilisateur ne contrôle pas le logiciel, c'est le logiciel qui contrôle l'utilisateur."
+
+Richard Stallman
 
 ---
 ## Matériel libre
