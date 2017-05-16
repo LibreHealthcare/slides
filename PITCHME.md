@@ -234,7 +234,7 @@ Batir 1 "communauté d'utilisateurs" sur 1 logiciel non libre est 1 stratégie r
 +++
 
 * Forum utilisateurs: 100 utilisateurs s'insurgent
-* Si la pub n'est pas retiré immédiatement, on forke le logiciel et on le confie à FramaDev, connue pour refuser toute publicité
+* Si la pub n'est pas retirée rapidement, on forke le logiciel et on le confie à FramaDev, connue pour refuser toute publicité
 * UltraLibreDev s'excuse et retire la pub du code le lendemain
 
 ---
