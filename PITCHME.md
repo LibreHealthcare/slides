@@ -168,6 +168,8 @@ Après avoir confié le développement du logiciel OpenDoc à l'entreprise Cliss
 
 Dr Stallman est décidément très satisfait d'avoir fait le choix initial d'1 logiciel libre. ;-)
 
+---
+
 ### Dr Gates
 
 En début d'activité de médecin généraliste, le Dr Gates s'était beaucoup investi dans son 1er logiciel privateur, dBMed, lancé en 1987:
