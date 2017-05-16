@@ -242,7 +242,7 @@ Batir 1 "communauté d'utilisateurs" sur 1 logiciel non libre est 1 stratégie r
 ### Dérives: publicité
 #### Dr Gates
 
-Dr Gates misait tout sur les éditions ImageAllThePeople. Avec 1 nom pareil, ce sont sûrement des gens chouettes, ils ont dû faire mai 68.
+Dr Gates misait tout sur les éditions ImagineAllThePeople. Avec 1 nom pareil, ce sont sûrement des gens chouettes, ils ont dû faire mai 68.
 
 * Mise à jour: 1 écran publicitaire s'affiche juste avant la prescription...
 * Forum utilisateurs: 100 utilisateurs s'insurgent
