@@ -215,6 +215,72 @@ Batir 1 "communauté d'utilisateurs" sur 1 logiciel non libre est 1 stratégie r
 
 ---
 
+## Intérêt pour les soignants II
+### Dérives: publicité, malware
+
+### Dr Stallman
+
+10 ans après... Dr Stallman a changé de logiciel mais il reste libre.
+
+* Satisfait de son nouveau logiciel libre UltraOpenDoc de la société UltraLibreDev
+* Mise à jour: 1 écran publicitaire s'affiche juste avant la prescription...
+* Forum utilisateurs: 100 utilisateurs s'insurgent
+* Si la pub n'est pas retiré immédiatement, on forke le logiciel et on le confie à FramaDev, connue pour refuser toute publicité
+* UltraLibreDev s'excuse et retire la pub du code le lendemain
+
+## Intérêt pour les soignants II
+### Dérives: publicité
+### Dr Gates
+
+Dr Gates misait tout sur les éditions ImageAllThePeople. Avec un nom pareil, ce sont sûrement des gens chouettes, ils ont dû faire mai 68.
+
+* Mise à jour: 1 écran publicitaire s'affiche juste avant la prescription...
+* Forum utilisateurs: 100 utilisateurs s'insurgent
+* Ils créent 1 pétition en ligne sur Avaaz
+  * [Madame Marisol Touraine, Ministre de la Santé: interdisez la publicité pour médicaments dans les logiciels médicaux](https://secure.avaaz.org/fr/petition/Madame_Marisol_Touraine_Ministre_de_la_Sante_interdire_la_publicite_pour_medicaments_dans_les_logiciels_medicaux/?pv=9)
+  * 1 061 signatures!!! C'est l'insurrection qui vient...
+  
++++
+
+* 2017: il y a toujours de la pub sur le logiciel HelloTruc
+* Les utilisateurs continuent à payer
+* ImagineAllThePeople l'éditeur "indépendant" number 1 cool soixante-huitard a été racheté par WorldCompany... (cf "Retour sur investissement")
+* Les utilisateurs ne peuvent plus se plaindre sur le forum car il a été fermé
+
+  
+---
+
+## Intérêt pour les soignants II
+### Dérives: malware
+
+#### Dr Stallman
+Pas de malware dans son logiciel libre:
+* code source accessible
+* rien n'est secret dans le fonctionnement du logiciel
+* difficile d'insérer 1 malware
+
+--- 
+#### Dr Gates
+IMS Health, géant des données de santé, a négocié avec WorldCompany pour installer d'office le module "épidémiologique" sur son logiciel HelloTruc.
+* codage et structuration des donnée des consultations
+* envoi des données vers le serveur IMS Health
+* réduction de quelques centaines d'€ sur l'abonnement à BiduleExpert la base de données sur les médicaments
+
++++
+
+Dr Gates sait que derrière l'excuse "épidémiologique", il s'agit de:
+* recueillir des données précieuses sur ses habitudes de prescription
+* revendre les données bien plus cher à l'industrie pharmaceutique
+
+* Il demande le retrait du module IMS Health de son logiciel
+* Refus de l'éditeur
+
++++
+
+![ims](images/ims.png)
+
+---
+
 #Intérêt pour les soignants III
 
 ---
