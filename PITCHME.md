@@ -141,9 +141,13 @@ Dr Stallman et les membres de l'association sont satisfaits d'avoir fait le choi
 +++    
 
 * Paye 500€ pour la récupération des données à HelloTruc
-   * données perdues
+   * informations de structuration perdues
    * consultations mises en bloc dans 1 seule page sans structuration
    * pas d'accès au code source -> personne ne sait comment était structurée la base de données de ProprietaryMed
+   * fouiller et reconstituer la structure est:
+     * fastidieux
+     * long
+     * coût+++
 
 ---
 
