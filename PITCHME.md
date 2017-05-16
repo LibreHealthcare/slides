@@ -335,10 +335,10 @@ Dr Gates sait que derrière l'excuse "épidémiologique", il s'agit de:
 
 ---
 
-### Wikipedia
+### Wikipedia (logiciel libre Mediawiki)
 ![logo](images/wikipedia.png)
 
-Logiciel libre Mediawiki
+
 
 ---
 
@@ -372,6 +372,8 @@ Logiciel qui vous envoie les fichiers qui permettent à Firefox d'afficher 1 pag
 
 ### Internet
 ![logo](images/internet.png)
+
++++
 
 Internet est-il 1 logiciel libre? En tout cas, c'est 1 ensemble de standards libres et ouverts élaborés par l'IETF (les RFC).
 
