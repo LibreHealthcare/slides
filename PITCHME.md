@@ -222,19 +222,25 @@ Batir 1 "communauté d'utilisateurs" sur 1 logiciel non libre est 1 stratégie r
 ## Intérêt pour les soignants II
 ### Dérives: publicité, malware
 
-### Dr Stallman
+---
+### Dérives: publicité, malware
+#### Dr Stallman
 
 10 ans après... Dr Stallman a changé de logiciel mais il reste libre.
 
 * Satisfait de son nouveau logiciel libre UltraOpenDoc de la société UltraLibreDev
 * Mise à jour: 1 écran publicitaire s'affiche juste avant la prescription...
+
++++
+
 * Forum utilisateurs: 100 utilisateurs s'insurgent
 * Si la pub n'est pas retiré immédiatement, on forke le logiciel et on le confie à FramaDev, connue pour refuser toute publicité
 * UltraLibreDev s'excuse et retire la pub du code le lendemain
 
-## Intérêt pour les soignants II
+---
+
 ### Dérives: publicité
-### Dr Gates
+#### Dr Gates
 
 Dr Gates misait tout sur les éditions ImageAllThePeople. Avec un nom pareil, ce sont sûrement des gens chouettes, ils ont dû faire mai 68.
 
