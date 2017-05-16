@@ -186,12 +186,12 @@ Après le rachat de dbMed par CLM (CEGEDIM Logiciels Médicaux), il a travaillé
 * Sortie d'1 version "millenium"
 * Dr Gates doit être dédommagé pour son travail: 18C (18 prix d'1 consultation)
 * 1 an de travail payé comme 1 journée de travail
-* le nouveau patron ne veut pas le payer
+* le nouveau directeur ne veut finalement pas le payer
 * tous les anciens développeurs de dBmed sont licenciés
 
 +++
 
-* Logique: l'entreprise CLM a déjà son logiciel prinicpal Crossway dans lequel elle a lourdement investi.
+* Logique: l'entreprise CLM a déjà son logiciel principal Crossway dans lequel elle a lourdement investi.
 * Pourquoi continuer à développer 1 logiciel obsolète quand on peut stopper son développement et forcer ses utilisateurs à migrer?
 
 +++
