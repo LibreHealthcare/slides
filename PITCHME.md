@@ -31,12 +31,19 @@ Mailing list, wiki, Mastodon, Twitter: https://librehealthcare.org
 * 2 la liberté de redistribuer des copies du programme (ce qui implique la possibilité aussi bien de donner que de vendre des copies)
 * 3 la liberté d'améliorer le programme et de distribuer ces améliorations au public, pour en faire profiter toute la communauté  
 
++++
+
 L'accès au code source est une condition d'exercice des libertés 1 et 3.
 
 +++    
 
  * Un logiciel libre est un logiciel qui respecte ces 4 libertés.
  * Tout logiciel qui ne respecte pas l'ensemble de ces 4 libertés est 1 logiciel non libre, encore appelé logiciel privateur (de libertés).
+ 
+ +++
+ 
+ ### Code source???
+ ![image code source fichier exécutable](images/source.jpg)
 
 ---
 
