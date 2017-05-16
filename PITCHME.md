@@ -43,7 +43,8 @@ L'accès au code source est une condition d'exercice des libertés 1 et 3.
  +++
  
  ### Code source???
- ![image code source fichier exécutable](images/source.jpg)
+ 
+ ![image code source](images/source.jpg)
 
 ---
 
