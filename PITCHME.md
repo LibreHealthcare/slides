@@ -42,9 +42,8 @@ L'accès au code source est une condition d'exercice des libertés 1 et 3.
  
 +++
  
- ### Code source
- 
- ![source](images/source.jpg)
+### Code source
+![source](images/source.jpg)
 
 ---
 
