@@ -97,7 +97,14 @@ L'accès au code source est une condition d'exercice des libertés 1 et 3.
 
 +++
 
-* Dr Stallman, président de OpenDocAsso, confie le développement d'un fork d'OpenLogiciel à l'entreprise Cliss 21. Le logiciel, renommé OpenDoc, est identitique au départ (liberté 2) mais après avoir étudié en détail le code source du logiciel (liberté 1) Cliss 21 et ses développeur brillants ajoutent des nouvelles fonctionnalités (liberté 3) et le Dr Stallman et les membres de l'association sont satisfaits d'avoir fait le choix d'1 logiciel libre au départ.
+* Dr Stallman, président d'OpenDocAsso, confie le développement d'un fork d'OpenLogiciel à l'entreprise Cliss 21
+* Le logiciel, renommé OpenDoc, est identique au départ (liberté 2)
+
++++
+
+* Après avoir étudié en détail le code source du logiciel (liberté 1) le nouvel éditeur ajoute des nouvelles fonctionnalités (liberté 3)
+
+Dr Stallman et les membres de l'association sont satisfaits d'avoir fait le choix d'1 logiciel libre au départ.
 
 ---
 
@@ -144,17 +151,22 @@ L'accès au code source est une condition d'exercice des libertés 1 et 3.
 ### Retour sur investissement
 
 ### Dr Stallman
-Après avoir, en accord avec les membres de l'association, confié le développement du logiciel OpenDoc à l'entreprise Cliss 21, il décide de collaborer activement avec les développeurs pour améliorer le logiciel
+Après avoir confié le développement du logiciel OpenDoc à l'entreprise Cliss 21, il décide de collaborer activement avec les développeurs pour améliorer le logiciel
+
++++
 
 * il contribue à améliorer son outil professionnel
 * le code qu'il teste et qu'il aide à produire restera libre
 * les améliorations qu'il propose ne pourront pas lui échapper
 * le logiciel est libre pour toujours
-* le logiciel et ses dérivés resteront à sa disposition
+* le logiciel (et même ses dérivés si la licence libre est copyleft) resteront à sa disposition
 
-Un logiciel libre n'est pas à vendre.
++++
 
-Dr Stallman est décidément très satisfait d'avoir fait le choix initial d'1 logiciel libre.
+* Un logiciel libre peut être vendu: vous l'achetez, mais vous recevez aussi le code source et toutes les libertés du logiciel libre
+* Un logiciel libre ne peut pas être "racheté" et confisqué comme 1 logiciel privateur.
+
+Dr Stallman est décidément très satisfait d'avoir fait le choix initial d'1 logiciel libre. ;-)
 
 ### Dr Gates
 
@@ -164,12 +176,17 @@ En début d'activité de médecin généraliste, le Dr Gates s'était beaucoup i
 
 +++
 
-Après le rachat de dbMed par CLM (CEGEDIM Logiciels Médicaux), il a travaillé pendant 1 an avec les développeurs qui était déjà en poste chez le précédent éditeur pour mettre à jour le logiciel avec une version "millenium" en l'échange de... l'équivalent de 18 consultations:
+Après le rachat de dbMed par CLM (CEGEDIM Logiciels Médicaux), il a travaillé pendant 1 an avec les développeurs qui étaient déjà en poste chez le précédent éditeur pour mettre à jour le logiciel:
+* Sortie d'1 version "millenium"
+* Dr Gates doit être dédommagé pour son travail: 18C (18 prix d'1 consultation)
 * 1 an de travail payé comme 1 journée de travail
 * le nouveau patron ne veut pas le payer
 * tous les anciens développeurs de dBmed sont licenciés
 
-Logique: CLM a déjà son logiciel prinicpal Crossway dans lequel elle a lourdement investi. Pourquoi continuer à développer 1 logiciel oboslète quand on peut stopper son développement et forcer ses utilisateurs à migrer?
++++
+
+* Logique: l'entreprise CLM a déjà son logiciel prinicpal Crossway dans lequel elle a lourdement investi.
+* Pourquoi continuer à développer 1 logiciel obsolète quand on peut stopper son développement et forcer ses utilisateurs à migrer?
 
 +++
 
