@@ -4,7 +4,6 @@ Diaporama: https://gitpitch.com/LibreHealthcare/slides
 
 ---
 ### LibreHealthCare
-#### Présentation
 ![logo](images/logo.png)
 * Collectif regroupant
     * professionnels de santé
